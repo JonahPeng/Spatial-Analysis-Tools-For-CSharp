@@ -7,6 +7,7 @@ The second homework of mannual calculate of autocorrelation on different images(
 For example
 
 |1|0|1|
+|---|---|
 |1|2|1|
 |0|1|2|
 
